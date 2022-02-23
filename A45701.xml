@@ -1,0 +1,420 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Christians best garment: or, The putting on of the Lord Jesus Christ Wherein the absolute necessity, excellency, and usefulness of Christ, as a garment, to believing souls, is briefly open and applied. Secondly, the naked, miserable, lost, and undone condition of all unbelievers, who have not put on this garment, discovered. Thirdly and lastly, some few brief, but powerful motives to perswade us to the putting on of this garment, with directions how to live to the glory of Christ here, that so we may live with Christ hereafter in glory. By a godly, able, and faithful servant of Jesus Christ.</title>
+            <author>Hart, John, D.D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45701</idno>
+            <idno type="STC">Wing H930</idno>
+            <idno type="STC">ESTC R216385</idno>
+            <idno type="EEBO-CITATION">99828116</idno>
+            <idno type="PROQUEST">99828116</idno>
+            <idno type="VID">32543</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45701)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32543)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1926:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Christians best garment: or, The putting on of the Lord Jesus Christ Wherein the absolute necessity, excellency, and usefulness of Christ, as a garment, to believing souls, is briefly open and applied. Secondly, the naked, miserable, lost, and undone condition of all unbelievers, who have not put on this garment, discovered. Thirdly and lastly, some few brief, but powerful motives to perswade us to the putting on of this garment, with directions how to live to the glory of Christ here, that so we may live with Christ hereafter in glory. By a godly, able, and faithful servant of Jesus Christ.</title>
+                  <author>Hart, John, D.D.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The third edition.</edition>
+               </editionStmt>
+               <extent>[48] p. : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>printed for E. Andrews, at the White Lion near Pye-Corner,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By John Hart.</note>
+                  <note>With a half-title.</note>
+                  <note>Text in black letter.</note>
+                  <note>Frontispiece = woodcut portrait of the author, John Hart.</note>
+                  <note>Signatures: A-C.</note>
+                  <note>Copy filmed cropped at head.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Devotional literature --  Early works to 1800.</term>
+               <term>Jesus Christ --  Meditations --  Early works to 1800.</term>
+               <term>Christian life --  Biblical teaching --  Early works to 1800.</term>
+               <term>Christian life --  Quotations, maxims, etc. --  Protestant authors --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:32543:1"/>
+            <pb facs="tcp:32543:1" rendition="simple:additions"/>
+            <p>The Chriſtians beſt Garment.</p>
+            <pb facs="tcp:32543:2"/>
+            <p>
+               <figure>
+                  <head>JOHN HART, D.D.</head>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:32543:2"/>
+            <p>THE CHRISTIANS Beſt Garment: OR, The putting on of the Lord Jeſus Chriſt.</p>
+            <p>Wherein the abſolute neceſſity, excellency, and uſefulneſs of Chriſt, as a Garment, to believing Souls, is briefly opened and applied.</p>
+            <p>Secondly, The naked, miſerable, loſt, and undone condition of all Unbelievers, who have not put on this Garment, diſcovered.</p>
+            <p>Thirdly and laſtly, Some few brief, but powerful Motives to perſwade us to the putting on of this Garment, with directions how to live to the glory of Chriſt here, that ſo we may live with Chriſt hereafter in glory.</p>
+            <p>The third Edition.</p>
+            <p>By a godly, able, and faithful Servant of Jeſus Chriſt. <hi>John Hart.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Rom. 13.14.</hi>
+               </bibl>
+               <p>Put ye on the Lord Jeſus Chriſt.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Col. 3.4.</hi>
+               </bibl>
+               <p>When Chriſt who is our life ſhall appear, then ſhall ye alſo appear with him in glory.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>E. Andrews,</hi> at the White Lion near <hi>Pye-Corner,</hi> 1664.</p>
+            <pb facs="tcp:32543:3"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:32543:3" rendition="simple:additions"/>
+            <head>THE Chriſtians beſt Garment. OR THE Putting on of the Lord Jeſus Chriſt.</head>
+            <epigraph>
+               <q>
+                  <bibl>Romans 13.12, 13, 14.</bibl>
+                  <p>The night is far ſpent, the day is at hand, let us therefore caſt off the works of darkneſs, and let us put on the armour of light.</p>
+                  <p>Let us walk honeſtly as in the day, not in rioting and drunkenneſs, not in cham<g ref="char:EOLhyphen"/>bering and wantonneſs, not in ſtrife and envying:</p>
+                  <p>But put ye on the Lord Jeſus Chriſt, and make no proviſion for the fleſh, to fulfill the luſts thereof.</p>
+               </q>
+            </epigraph>
+            <p>IN theſe Words, beloved, which I have now read unto you, we have theſe two parts.</p>
+            <pb facs="tcp:32543:4"/>
+            <p>In the firſt place, we have ſome things which the Apoſtle endeavours to perſwade Chriſtians from.</p>
+            <p>In the ſecond place, we have ſome things which the Apoſtle endeavours to perſwade Chriſtians to.</p>
+            <p>The things perſwaded from, are the works of darkneſs; the things per<g ref="char:EOLhyphen"/>ſwaded to are theſe.</p>
+            <list>
+               <item>1. That we put on the armour of light, and that we walk honeſtly.</item>
+               <item>2. The Apoſtle having exhorted us to this two-fold duty.</item>
+            </list>
+            <p n="1">1. The <hi>caſting off the works of dark<g ref="char:EOLhyphen"/>neſs,</hi> and the <hi>putting on the armour of light,</hi> here ſets down expreſly ſome Chriſtian directions how this is to be done; and that two wayes.</p>
+            <list>
+               <item>1. Negatively, and then,</item>
+               <item>2. Affirmatively.</item>
+            </list>
+            <p n="1">1. Negatively, <hi>not in rioting and drunkenneſs, not in chambering and wantonneſs, not in ſtrife and envy.</hi>
+            </p>
+            <p n="2">2. Affirmatively, by <hi>putting on the Lord Jeſus Chriſt,</hi> and denying of the works of the ſleſh; and the mo<g ref="char:EOLhyphen"/>tives here laid down, whereupon the Apoſtle enjoyns this duty, are theſe
+<pb facs="tcp:32543:4"/>in the 12. verſe, <hi>The night is far ſpent, the day is at hand, therefore</hi> (ſaith he) <hi>let us caſt off the works of darkneſs, and let us put on the armour of light.</hi>
+            </p>
+            <p>Where by the way, we may obſerve, that works of darkneſs are very un<g ref="char:EOLhyphen"/>ſuitable and unſeaſonable to the times of the Goſpel, light and darkneſs are contrary.</p>
+            <p>In the words then you ſee, 1. Here is a duty exhorted unto, and that is laid down in the 12. verſe.</p>
+            <p>And then 2. you have here alſo the Apoſtles amplification and illuſtrati<g ref="char:EOLhyphen"/>on of this duty here exhorted unto, and that is ſet down particularly in the 13. and 14.verſes.</p>
+            <p>The duty exhorted unto you ſee here is two-fold.</p>
+            <p n="1">1. Here is ſomething to be caſt off.</p>
+            <p>And then 2. Here is ſomething to be put on.</p>
+            <p n="1">1. The things to be caſt off, are the works of darkneſs.</p>
+            <p n="2">2. The things to be put on, are the armor of light: <hi>Let us caſt off the works darkneſs, and let us put on the armor of light.</hi>
+            </p>
+            <pb facs="tcp:32543:5"/>
+            <p>And as the exhortation is two-fold, ſo likewiſe are the reaſons whereupon the Apoſtle grounds his exhortation alſo.</p>
+            <p n="1">
+               <hi>1. The night is far ſpent.</hi>
+            </p>
+            <p>And <hi>2. the day is at hand.</hi>
+            </p>
+            <p>Before I proceed to the obſervati<g ref="char:EOLhyphen"/>on, give me leave a little to open the words unto you; and firſt, I ſhall en<g ref="char:EOLhyphen"/>deavour to ſhew what is here meant by the night, and then ſecondly, what is here meant by the day: by the night here may be meant the times of darkneſs and ignorance, in which the Gentiles lived in before the breaking forth of the Goſpel of Chriſt, and thoſe times may very well be compared to the night for theſe three reaſons.</p>
+            <p>Firſt, In the night men cannot ſo well ſee their way, and therefore may the more easily wander out of their way, for it is onely the want of light that makes men to erre.</p>
+            <p n="2">
+               <hi>2.</hi> In the night no thing is viſible or diſcernable but darkneſs, all light is then extinguiſhed; the blind man is not able to value or judge what a
+<pb facs="tcp:32543:5"/>mercy it is to have the fruition and enjoyment of the light of the Sun.</p>
+            <p n="3">
+               <hi>3.</hi> The night is the moſt ſuitableſt time and ſeaſon for the doing of evil, in <hi>Job 24.14, 15, 16. The murderer</hi> (ſaith <hi>Job</hi>) <hi>riſing with the light killeth the poor and needy, and in the night is as a thief. The eye alſo of the adulterer waiteth for the twilight, ſaying, No eye ſhall ſee me, and diſguiſeth his face. In the dark they dig through houſes,</hi> they know not the light. <hi>They that are drunk</hi> (ſaith the Apoſtle) <hi>are drunk in the night, 1 Theſ. 5.7.</hi> In <hi>Pſal. 25.20. The dark places of the earth are full of the habitations of cruelty.</hi>
+            </p>
+            <p>And then ſecondly, by the day here is meant the times of the Goſpel, it is night in the ſoul, till ſuch time as the day light of the Goſpel breaks forth and ſhines into it, Matth. 4 16. The people which ſate in darkneſs ſaw a great light, and to them that ſate in the region and ſhadow of death, light is ſprung up.</p>
+            <p>In <hi>John 13.19. Light is come into the world, and men love darkneſs ra<g ref="char:EOLhyphen"/>ther then light;</hi> and why ſo, the reaſon
+<pb facs="tcp:32543:6"/>is (ſaith he) <hi>becauſe their deeds were evil. For every one that doth evil ha<g ref="char:EOLhyphen"/>teth the light, neither cometh to the light, leſt his deeds ſhould be reproved. Epheſ. 5.8. Ye were ſometimes dark<g ref="char:EOLhyphen"/>neſs,</hi> (ſaith the Apoſtle) <hi>but now are ye light in the Lord: walk as children of light.</hi>
+            </p>
+            <p>In <hi>1 Pet. 2.9. God hath called us out of darkneſs into his marvellous light. Luke 1.78, 79. The day-ſpring from on high hath viſited us: To give light to them that ſit in darkneſs.</hi>
+            </p>
+            <p>In <hi>Acts 26.17, 18.</hi> The Apoſtle was ſent to the Gentiles, <hi>to turn them from darkneſs unto light.</hi>
+            </p>
+            <p>In <hi>1 John 2.8. The darkneſs is paſt, and the true light</hi> (ſaith the Apoſtle) <hi>now ſhineth.</hi>
+            </p>
+            <p>In <hi>Acts 17.30.</hi> The times of Hea<g ref="char:EOLhyphen"/>theniſme are there called the times of ignorance, and it muſt néeds be night in ſuch ſouls wherein Chriſt the Sun of righteouſneſs never did ariſe; as it is never day in the worid until the Sun ariſeth, ſo it is never day in the ſoul till Chriſt the Sun of righteouſ<g ref="char:EOLhyphen"/>neſs ariſeth with healing in his wings.</p>
+            <pb facs="tcp:32543:6"/>
+            <p>Now there are ſeveral uſeful and profitable points of doctrine, which naturally from hence for our in<g ref="char:EOLhyphen"/>ſtruction and edification, I ſhall one<g ref="char:EOLhyphen"/>ly name them, and ſo procéed to that which I chiefly intend.</p>
+            <p>The firſt point of doctrine is this, that works of darkneſs are works of the night, night works.</p>
+            <p>Secondly, that the times of the Go<g ref="char:EOLhyphen"/>ſpel are times of light.</p>
+            <p>Thirdly, that in the day of the Go<g ref="char:EOLhyphen"/>pel all theſe works of darkneſs are to be caſt off: when the Sun ſhines, it diſpels and ſcatters all thoſe miſts and fogs of darkneſs that lie upon the earth; ſo when Chriſt the Sun of Righteouſneſs ariſes in the ſoul, he diſpels and ſcatters all thoſe miſts and fogs of ſin and wickedneſs which naturally ariſeth in the ſoul.</p>
+            <p>Fourthly, in Goſpel times, or times of light, men ſhould live Go<g ref="char:EOLhyphen"/>ſpel lives, or walk in the light of the Goſpel: while ye have light walk as children of the light. <hi>Walk</hi> (ſaith our Saviour, <hi>John 5.35, 36) while ye have light, leſt darkneſs come upon you:
+<pb facs="tcp:32543:7"/>for he that walketh in darkneſs knoweth not whither he goeth. While ye have light, believe in the light, that ye may be the children of light.</hi>
+            </p>
+            <p>Fifthly, that rioting and drunken<g ref="char:EOLhyphen"/>neſs, chambering and wantonneſs, ſtrife and envy, are not works of the day, but of the night.</p>
+            <p>Sixthly, they that would live as becomes the Goſpel of Chriſt, ſhould caſt off all thoſe unfruitful works of darkneſs.</p>
+            <p>Seventhly, that Ieſus Chriſt is a Chriſtians garment.</p>
+            <p>Eighthly, that Ieſus Chriſt is a garment to be put on.</p>
+            <p>Ninthly, that all of Chriſt, whole Chriſt is to be put on; put ye on the Lord Ieſus Chriſt as a King to rule you, as a Prieſt to offer up himſelf a ſacrifice for you, and as a Prophet to teach and and inſtruct you.</p>
+            <p>Tenthly and laſtly, that the put<g ref="char:EOLhyphen"/>ting on of the Lord Ieſus Chriſt is accompanied with the caſting off all ſinful and fleſhly works.</p>
+            <p>Now the point of doctrine that I ſhall chiefly inſiſt upon ſhall be this,
+<pb facs="tcp:32543:7"/>namely, that the Lord Ieſus Chriſt is a garment; in handling whereof I ſhall briefly touch upon, and ſpeak ſomething to all the reſt by way of uſe and application.</p>
+            <p>The Doctrine then to be inſiſted upon is this, That the Lord Ieſus Chriſt is a Chriſtians garment; in handling whereof, I ſhall endeavour by the aſſiſtance of God to ſhew you the natural agreement and reſem<g ref="char:EOLhyphen"/>blance that is betwéen the Lord Ieſus Chriſt and our natural garments.</p>
+            <p>Firſt, wherein they do agree, and ſecondly, wherein they do not agree.</p>
+            <p>And having done this, in the next place, God willing, I ſhall endeavour to ſhew you what kinde of garment Chriſt is, and how this garment is to be worn.</p>
+            <p>Thirdly and laſtly, to whom and for what he is a garment; and then having done this, I ſhall briefly en<g ref="char:EOLhyphen"/>deavour to give you ſome directions by way of motives to perſwade you to the putting on of this garment, and ſo conclude all by the aſſiſtance of God in a word or two of uſe and appli<g ref="char:EOLhyphen"/>cation.</p>
+            <pb facs="tcp:32543:8"/>
+            <p>I begin with the firſt of theſe, wherein the Lord Ieſus Chriſt is or may be ſaid to be a garment, and this this will appeare briefly in theſe two things.</p>
+            <list>
+               <item>
+                  <hi>1.</hi> Conſidering what we are; and</item>
+               <item>
+                  <hi>2.</hi> Conſidering what Chriſt doth.</item>
+            </list>
+            <p n="1">
+               <hi>1.</hi> Chriſt may be ſaid to be a gar<g ref="char:EOLhyphen"/>ment, conſidering what we are by nature, the beſt of us are but, as St. <hi>John</hi> ſaith; <hi>Rev. 3.17.</hi> empty, naked, miſerable ſinners: the beſt garments we have by nature are nothing elſe but rags, yea filthy rotten rags, as the Prophet <hi>Iſaiah</hi> expreſſes it in <hi>Iſa. 64.6.</hi> We are all of us by nature poor and blinde, miſerable and naked, till Chriſt appears in us, thereupon the Apoſtle <hi>Paul,</hi> in <hi>Phil. 3.8, 9.</hi> deſires ſo earneſtly that he might be found in Chriſt, not having on his own righ<g ref="char:EOLhyphen"/>teouſneſs, which he accounted droſs and dung in compariſon of Chriſt and his righteouſneſs.</p>
+            <p n="2">
+               <hi>2.</hi> Chriſt is a garment in regard of what he doth to us; he covers our nakedneſs by caſting over us the skirts of his love, as in <hi>Ezek. 16 8.</hi>
+            </p>
+            <pb facs="tcp:32543:8"/>
+            <p>And to illuſtrate this a little, I ſhall here take occaſion to ſhow you wherein Chriſt may be ſaid to be a gar<g ref="char:EOLhyphen"/>ment, by giving you the reſemblances that are between the Lord Ieſus Chriſt and our natural garments; and what our garments are to our bodies, the ſame, and much more is Chriſt to our ſouls.</p>
+            <p>Now the natural uſe of our natu<g ref="char:EOLhyphen"/>ral garments are chiefly theſe three.</p>
+            <list>
+               <item>
+                  <hi>1.</hi> Our natural garments are for neceſſity.</item>
+               <item>
+                  <hi>2.</hi> For diſtinction.</item>
+               <item>
+                  <hi>3.</hi> For ornament.</item>
+            </list>
+            <p>Firſt, for neceſſity; our natural garments are neceſſary, yea, they are of neceſſity, we cannot be well without them: they are needful for us to cover and ſhelter us, to cheriſh and preſerve our weak, frail, naked bodies, from all the dangers and in<g ref="char:EOLhyphen"/>cumbrances which would irreſiſtably fall upon us, without the uſe of them.</p>
+            <p>Our garments are uſeful to cover and preſerve us from the cold bluſter<g ref="char:EOLhyphen"/>ing ſtorms of the world, how unable would our frail weak mortal bodies
+<pb facs="tcp:32543:9"/>be to ſubſiſt and live without the na<g ref="char:EOLhyphen"/>tural uſe of our natural garments, to cheriſh and preſerve us; and this, and more then this doth Chriſt to our ſouls.</p>
+            <p>As our bodies are not able to ſubſiſt without cloathes, no more are our ſouls able to ſubſiſt without Chriſt, who is the life and garment of our ſouls.</p>
+            <p>As our natural garments ſerve to defend us from the cold bluſtering ſtorms of the weather, ſo Chriſt the garment of our ſouls preſerves and ſhelters us from all thoſe raging aſ<g ref="char:EOLhyphen"/>ſaults of Satan, which in the world we are often, yea, alwayes lyable unto.</p>
+            <p>Secondly, as our natural gar<g ref="char:EOLhyphen"/>ments ſerve to defend us from the cold ſtormes of winde and weather, ſo likewiſe they ſerve to defend us from the violent and ſcorching heat of the Dun.</p>
+            <p>As in the bluſtering ſtorms of rain and cold, our garments preſerves us from periſhing under them; ſo in the violent ſearching heat of the Sun, our
+<pb facs="tcp:32543:9" rendition="simple:additions"/>garments ſerve to keep us from being melted and devoured by its violent and ſcorching heat.</p>
+            <p>Of the like uſe is Chriſt to our ſouls; as 'tis onely Chriſt that can preſerve us from the cold bluſtering ſtorms of the world, ſo 'tis onely Chriſt that can preſerve us from the violent and ſcorching heat of perſecu<g ref="char:EOLhyphen"/>tions and fiery tryals in the world.</p>
+            <p>A ſecond uſe of our natural gar<g ref="char:EOLhyphen"/>ments is for diſtinction, to diſtin<g ref="char:EOLhyphen"/>guiſh between ſex and ſer, noble and ignoble, high and low, rich and poor, magiſtrates and people; ſo likewiſe Chriſt is a garment for diſtinction, yea, he is the onely diſtinguiſhing garment in the world.</p>
+            <p>Chriſt diſtinguiſheth the ſaint from the ſinner; the holy from the unholy, the ſheep from the wolves; yea, the true ſheep from the wolves in ſheeps cloathing; the ſincere and upright ſouls from formal falſhood, hypocri<g ref="char:EOLhyphen"/>tical Profeſſors: and as it diſtinguiſh<g ref="char:EOLhyphen"/>eth the ſaints from ſinners here, ſo if will alſo diſtinguiſh them hereafter; they that have not on this garment at
+<pb facs="tcp:32543:10"/>the laſt day, ſhall be ſet on the left hand of Chriſt in judgement; its this wedding garment that diſtinguiſheth who are the gueſts for the marriage feaſt, there is no coming to heaven without it.</p>
+            <p>Thirdly, the natural uſe of our natural garments are for ornament, our uncomely parts being cloathed become abundant more comely; our bodies being decked and adorned by clothing, although in themſelves un<g ref="char:EOLhyphen"/>comely, do thereby become beautiful and lovely: of the like uſe is Chriſt to our ſouls; there is nothing in the world, beloved, that will ſo adorn your ſouls as this garment of Chriſt; yea, it is the onely becoming gar<g ref="char:EOLhyphen"/>ment, it will make your ſouls ami<g ref="char:EOLhyphen"/>able and lovely, yea, altogether love<g ref="char:EOLhyphen"/>ly, our ſouls being cloathed upon with this garment of Chriſt and his righteouſneſs, will appear lovely and beautiful in the eyes of God him<g ref="char:EOLhyphen"/>ſelf, and by it we are made to be ac<g ref="char:EOLhyphen"/>ceptable in the Lord: as we are in our ſelves, we are vile, wretched, ſin<g ref="char:EOLhyphen"/>ful, deformed creatures, altogether
+<pb facs="tcp:32543:10"/>unlovely, but in Chriſt we are made to be amiable and beautiful, yea, al<g ref="char:EOLhyphen"/>together lovely.</p>
+            <p>Having thus given you the reſem<g ref="char:EOLhyphen"/>blances between Chriſt and our natu<g ref="char:EOLhyphen"/>ral garments, and having ſhewed you briefly wherein they do agree, I ſhall now in a word or two, ſhew you where<g ref="char:EOLhyphen"/>in they diſagree, or rather wherein this ſpiritual and heavenly garment of Chriſt ſuper exceeds and excells all the garments in the world, be they never ſo rich and coſtly; and herein lies the diſagreement.</p>
+            <p>Firſt, our natural garments are not durable, they will laſt us but a little while before they be quite worn out; but Ieſus Chriſt is a durable and laſting garment, yea, an ever<g ref="char:EOLhyphen"/>laſting garment that will never be worn out while thou liveſt, though thou liveſt never ſo long, it will laſt thee for ever and ever, both here and hereafter.</p>
+            <p>Secondly, our natural garments they are the worſe for wearing, yea, the longer we wear them the worſe they grow; and at the laſt, by being
+<pb facs="tcp:32543:11"/>over-worn, they come to be worth no<g ref="char:EOLhyphen"/>thing? I, but it is not thus with Chriſt, this heavenly garment of Chriſt is the better for wearing, and the longer we wear it, the better it is, and the better we are, it doth not onely grow better it ſelf, but it alſo makes us grow better. I, but it is not thus with our natural garments, they if they be worn often, or by often wearing, they grow worſe and worſe, and at laſt they decay.</p>
+            <p>Thirdly, our natural garments as we put them on in the morning, ſo we put them off at night; but where ever Ieſus Chriſt is put on as a gar<g ref="char:EOLhyphen"/>ment, he is not, nay, he cannot be put off again; Chriſt is a garment as well for the night as for the day: the ſoul that hath once given up it ſelf to Chriſt, by a true and ſaving faith, can never be taken away, I mean not finally from Chriſt, by all the craft and policy of the Devil; they that are choſen by God in Chriſt, ſhall be preſerved by God in Chriſt.</p>
+            <p>Fourthly, our natural garments grow out of faſhion very often and
+<pb facs="tcp:32543:11"/>ſuddenly, but Ieſus Chriſt is a gar<g ref="char:EOLhyphen"/>ment that will never be out of faſhion; a better then which can never be ima<g ref="char:EOLhyphen"/>gined nor invented.</p>
+            <p>Ieſus Chriſt is a garment as well for Summer as for Winter, for all weathers; in the Summer heat of per<g ref="char:EOLhyphen"/>ſecutions and tryals, Chriſt is a gar<g ref="char:EOLhyphen"/>ment, either to keep them off, or elſe to ſuſtain us under them: and in the Winter of adverſity Jeſuſ Chriſt is a garment to defend and cheriſh us from all evils; let the ſtorms be never ſo great, let the fire be never ſo hot, Chriſt can ſuſtain and uphold his peo<g ref="char:EOLhyphen"/>ple; witneſs <hi>Daniel</hi> in the Lions Den, and the Children in the fiery Furnace, &amp;c.</p>
+            <p>Fifthly, our natural garments they are fitted to our bodies, but to this garment of Chriſt out ſouls are made fit; Chriſt is a garment made fit for all ſouls, natural garments if they fit one, they are either too big or too lit<g ref="char:EOLhyphen"/>tle for another; but Ieſus Chriſt is a garment fit, or made fit for all ſouls, for ſouls of all ſorts; a garment for men, and a garment for women: a
+<pb facs="tcp:32543:12"/>garment for parents, and a garment for children: a garment for poor, and a garment for rich: a garment for Magiſtrates, and a garment for Mi<g ref="char:EOLhyphen"/>niſters, and a garment for people: a garment for Jews, and a garment for Gentiles. Chriſt is and will be to all his people, an ornament of grace here, and of glory hereafter.</p>
+            <p>I come now in the next place to ſhew you what kinde of garment Ieſus Chriſt is, and how he is to be worn; and I ſhall briefly give it you in theſe following conſiderations.</p>
+            <p>And firſt of all, he is a precious gar<g ref="char:EOLhyphen"/>ment: <hi>to you therefore which believe he is precious, 1 Pet. 2.7.</hi> precious in regard of his nature, God and man; precious in regard of his worth and excellency, the chiefeſt and the choiceſt of ten thouſands. But I muſt not inſiſt upon theſe things.</p>
+            <p>Secondly, Chriſt is a coſtly gar<g ref="char:EOLhyphen"/>ment, a garment that's ſaid to be of great price, a garment of Gods own making, a garment that coſt a dear price, the precious life and blood of a Saviour.</p>
+            <pb facs="tcp:32543:12"/>
+            <p>In a word, for I muſt be brief, he is a garment of more worth then all the world.</p>
+            <p>Thirdly, Chriſt is a cheap garment, the cheapeſt garment that ever thou woreſt in all thy life; thou mayeſt have this garment, as we uſe to ſay for God a mercy, he is freely offered to thee: <hi>Ho, every one that thirſteth, come ye to the waters, and he that hath no money: come ye, buy and eat, come buy wine and milk without money, and without price.</hi>
+            </p>
+            <p>Thou mayeſt have this garment for asking for; it is true, this gar<g ref="char:EOLhyphen"/>ment coſt the deareſt price that ever any garment did, the Blood of God, one drop whereof is of more worth then ten thouſand Worlds; but Chriſtians, remember, this garment is paid for already, its purchaſed by God the Father for thee; ſhouldſt thou go about to buy it, thou couldſt never be able to purchaſe it; all thou haſt, nay, all that all the men in the world have, would never have been able to have bought this garment: it was onely the rich God, that God
+<pb facs="tcp:32543:13"/>who hath all, and is all, that was onely able to purchaſe this precious, this coſtly, this excellent, and this glorious garment; and yet not with<g ref="char:EOLhyphen"/>ſtanding all this, thou mayeſt have him for nothing, he is freely ten<g ref="char:EOLhyphen"/>dered and offered to thee in the Goſ<g ref="char:EOLhyphen"/>pel of life: though it be a coſtly gar<g ref="char:EOLhyphen"/>ment to God yet it will be a cheap garment to thee; God hath paid all, and there is nothing at all left for thee to pay, or to do, but to take him and put him on.</p>
+            <p>Fourthly, Ieſus Chriſt is a ſeam<g ref="char:EOLhyphen"/>leſs garment, as Chriſt coat was ſeamleſs, ſo is his perſon ſeamleſs, there is no rent nor diviſions in this precious garment; and as there is no rents nor diviſions in Chriſt, ſo there ought to be none in Chriſtians: if there be no rents nor diviſions in the head, certainly there ought to be none in the Church, which is the body.</p>
+            <p>And here beloved, we might take up a ſad and a bitter lamentation in in conſideration of the ſad rents and diviſions that are now in the Church of Chriſt: whereas one ſaith, <hi>He is
+<pb facs="tcp:32543:13"/>of Paul, and another of Apollos, are we not therefore carnal? 1 Cor. 1.</hi> Cer<g ref="char:EOLhyphen"/>tainly beloved, theſe things ought not ſo to be, all the Saints or God, they ſhall all have one head <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, ſo they muſt all be ſaved by one faith: and there<g ref="char:EOLhyphen"/>fore ſurely they ſhould all be of one heart, if not of one minde; and there<g ref="char:EOLhyphen"/>fore by the way, thoſe who go about to make rents and diviſions in the Church of God, doth not do Gods work, but the Devils: the ſpirit of God is not a ſpirit of diviſion, but of love, of peace, and a pure minde; and as the Apoſtle <hi>Jude</hi> calls <hi>ſeducers and falſe teachers, ungodly men; and ſepa<g ref="char:EOLhyphen"/>rates from the Church,</hi> are ſaid by <hi>Jude</hi> in his 19. verſe, <hi>to be ſenſual, and not to have the ſpirit.</hi>
+            </p>
+            <p>And before I paſs this point, I hope it will not be amiſs to ſhew you the wickedneſs and ſin of thoſe who go about to make diviſions in the Church of Chriſt.</p>
+            <p>And firſt of all, ſowers of diviſions are renters of Chriſt; it is a horrible violence offered to the Body of Chriſt, a dividing of Chriſt, as St. <hi>Paul</hi> calls
+<pb facs="tcp:32543:14"/>it, in 1 Cor. 1.13. it would make Chriſt ſeem to be the head of two bo<g ref="char:EOLhyphen"/>dies, a moſt monſtrous conceit in<g ref="char:EOLhyphen"/>deed.</p>
+            <p>Secondly, it reſiſteth the commands of Chriſt, which is love, and op<g ref="char:EOLhyphen"/>poſes the very end of Chriſt in dying for ſinners, which was, that all his Saints ſhould be one.</p>
+            <p>Thirdly, diviſion in the Church is very diſhonourable and injurious to the Church; for how can a body be rent and torn without prejudice: it hin<g ref="char:EOLhyphen"/>ders alſo the peace of the Church, Schiſmaticks, ſaith one, more oppoſes the peace of the Church then heathens do; if the body be rent and torn, it is ſurely with much pain and ſmart; and tearing and renting in the church will ſurely cut the very heart of one that's a true Member of the Church. It makes the Saints mourn, and to be ſure, it makes the Devil laugh; therefore let us labour to be rentleſs and ſeamleſs, as Chriſt is.</p>
+            <p>To this end, in the firſt place la<g ref="char:EOLhyphen"/>bour after holineſs, diviſion and ſepa<g ref="char:EOLhyphen"/>ration is a badge and mark of unholi<g ref="char:EOLhyphen"/>neſs;
+<pb facs="tcp:32543:14"/>children in unholineſs are ever men in malice.</p>
+            <p>Secondly, be not overtaken with new fancies and novelties; thoſe new lights which hath ſet the Church of God ſo much on fire in theſe our dayes, have all been taken out of the dark Lanthorns of old Hereticks and Ie<g ref="char:EOLhyphen"/>ſuits: all thoſe lights which receive not their light from the word of God, are all falſe lights and vapors that onely appear on purpoſe to draw men out of the way. Truth ſhould alwayes be imbraced, though it be never in ſo old a dreſs, they are itching ears that are moſt taken with novelties.</p>
+            <p>Laſtly, diviſions beger ſenſuality, ſenſuality uſual follows ſeperation even at the heels, ſeparating them<g ref="char:EOLhyphen"/>ſelves, ſaith <hi>Jude, ſenſual, not having the Spirit:</hi> not to ſpeak any more of this, our own ſad experience hath too manifeſtly witneſſed this for a truth. What horrid impiety, deſperate vil<g ref="char:EOLhyphen"/>lanies have been commited by wicked and ungodly ſeducers in our dayes, my heart trembles with the very thought thereof.</p>
+            <pb facs="tcp:32543:15"/>
+            <p>Fifthly, Chriſt is a ſpotleſs gar<g ref="char:EOLhyphen"/>ment, there is not ſo much as a ſpark or ſpot in this garment; and therefore it is, that the Saints are ſaid in Scripture to be cloathed in white robes, <hi>Rev. 6.11.</hi> and that he offered himſelf without ſpot to God, <hi>Heb 9.14.</hi> and the Saints are ſaid to be cloathed in fine linnen, white and clean, <hi>Rev. 19.14.</hi>
+            </p>
+            <p>And as Chriſt is ſpotleſs himſelf, ſo he takes away all ſpots and defile<g ref="char:EOLhyphen"/>ments from his people, they are waſhed in his blood, and therefore are ſaid to be clean by Chritſt himſelf, <hi>John 13.10. John 15.3.</hi> and there<g ref="char:EOLhyphen"/>fore he is called the <hi>Lamb of God that taketh away the ſins of the world, John 1.29.</hi> It was onely a ſinleſs Saviour that could ſatisfie for, and take away the ſins of ſinful men.</p>
+            <p>If Chriſt had not been without ſpots himſelf, he could never have taken away our ſpots: he that was manifeſt, ſaith St. <hi>John,</hi> to take away our ſin, in him was no ſin, <hi>1 John 3.5 Chriſt hath ſuffered for us,</hi> ſaith St. <hi>Peter, 1 Pet. 2.21, 22. who did no
+<pb facs="tcp:32543:15"/>ſinne, neither was guile found in his mouth;</hi> it is onely the blood of Chriſt that waſhes, and needs no waſhing: if he had not been without ſin, he could not have ſaved us from our ſins; nay, he himſelf then had ſtood in need of a Saviour: and although he took up<g ref="char:EOLhyphen"/>on him our nature, and was made ſleſh, yet the nature of Chriſt was a pure nature in it ſelf; and therefore that of the Apoſtle doth moſt ſweetly expreſs this, where he ſayes of Chriſt, that he <hi>in the likeneſs of ſinfull fleſh, condemned ſin in the fleſh, Rom. 8.3.</hi> and though he was in all things like unto us, yet ſaith the Apoſtle, <hi>Heb. 4.13.</hi> he was without ſin.</p>
+            <p>Chriſt was not born in ſin, as we are, he was conceived by the Holy Ghoſt, and borne of a pure Virgin; its true, Chriſt was a ſinner, yea, the greateſt of ſinners by imputation, he having all the ſins of all the Clect of God laid upon him.</p>
+            <p>But firſt, had not Ieſus Chriſt been ſinleſs in himſelf, he had never been able to have unvergone ſo heavy a burthen: Chriſt ſuffered not for</p>
+            <p>But firſt, had not Ieſus Chriſt been ſinleſs in himſelf, he had never been able to have undergone ſo heavy a burthen: Chriſt ſuffered not for
+<pb facs="tcp:32543:16"/>his own ſins, but for our ſins; <hi>He his own ſelf</hi> (ſaith the Apoſtle) <hi>bore our ſinnes on the Croſs. We indeed</hi>) ſaith the converted thief on the Croſs) <hi>do ſuffer juſtly, but this man hath done no<g ref="char:EOLhyphen"/>thing amiſs, Luke 23.41. He hath made him to be ſin for us, who knew no ſin,</hi> ſaith the Apoſtle, <hi>2 Cor. 5.21. He did no violence, neither was there any guile found in his mouth, Iſa. 53.9.</hi>
+            </p>
+            <p>Sixthly, Chriſt is a comely gar<g ref="char:EOLhyphen"/>ment, a garment that will never be out of faſhion; <hi>He is the ſame yeſterday, and to day, and for ever:</hi> there is no<g ref="char:EOLhyphen"/>thing ſo lovely and amiable in the eyes of Chriſtians as Chriſt is. Chriſtians I beſeech you conſider, you are never well dreſt till you have put on this garment, nor you ſhall never be bleſt without it.</p>
+            <p>Seventhly, Chriſt is a laſting, yea, an everlaſting garment, a garment that will laſt thee as long as thou liveſt, and will never be the worſe for wearing, but will alwayes be the better for wearing; the more thou weareſt this garment the more glo<g ref="char:EOLhyphen"/>rious it will be: and as this garment
+<pb facs="tcp:32543:16"/>will laſt thee as long as thou liveſt, ſo thou mayeſt carry it along with thee when thou dyeſt; thou canſt not carry any thing out of the world with thee; for naked cameſt thou into the world, and naked ſhalt thou go out of the world; but if thou haſt put on Chriſt as a garment in thy life, thou canſt not leave him behind thee when thou dyeſt, thou ſhalt carry this gar<g ref="char:EOLhyphen"/>ment with thee into the next world.</p>
+            <p>I ſhould come now to ſhew you how this garment is to be worn, but I ſhall ſpeak of that by way of Uſe and Appli<g ref="char:EOLhyphen"/>cation.</p>
+            <p>Now the Uſes that I ſhall make of this uſeful point, ſhall be theſe.</p>
+            <p>Is it ſo that Ieſus Chriſt is a Chriſtians garment, then in the firſt place I beſeech you obſerve the miſe<g ref="char:EOLhyphen"/>rable and wretched condition of wick<g ref="char:EOLhyphen"/>ed and ungodly men; men out of Chriſt they are naked, and have not (as we uſe to ſay of ſome poor people) a rag to cover their nakedneſs withal. Ah! ſinners, for the Lords ſake, for your precious and immortal ſouls ſake, I beſeech you conſider, and lay
+<pb facs="tcp:32543:17"/>to heart a little your own moſt miſe<g ref="char:EOLhyphen"/>rable and ſad condition, how will you be able to ſtand in the day of the Lords wrath, and how wilt thou be able to contend with the Almighty, when once he is angry, thou haſt no<g ref="char:EOLhyphen"/>thing to ſhelter thee againſt the ſtorms and fury of the Lords indig<g ref="char:EOLhyphen"/>nation. I beſeech you then as you love your own ſouls, that you would now put on the Lord Ieſus Chriſt, O put him on, he is freely offered to thee, O then do not be ſo fooliſh, and Bedlam mad, as to refuſe him, it thou doeſt thou art undone for ever: art thou naked, and wilt not thou take this garment of Chriſt to cover thy nakedneſs withall; conſider a lit<g ref="char:EOLhyphen"/>tle I beſeech thee thy own ſad condi<g ref="char:EOLhyphen"/>tion as thou art in thy ſelf out of Chriſt,</p>
+            <p>In the firſt place thou art liable to all dangers, every ſinner out of Chriſt lies open to every danger; every mercy thou enjoyeſt out of Chriſt is in wrath, thy preſervation is but by common providence, and its curſed as well as common, as one
+<pb facs="tcp:32543:17"/>ſaith ſweetly, Thy preſervation is but a reſervation of thee to the day of wrath, thou art kept, but remember, thou art kept but as a malefactor to the day of execution, thou haſt no<g ref="char:EOLhyphen"/>thing to guard thee from the wrath of God: it is poſſible thou mayeſt be ſe<g ref="char:EOLhyphen"/>cure in thy sin, but remember thy ſe<g ref="char:EOLhyphen"/>curity is not from want of danger, but from the want of dicovery of that danger which is every day and hour hanging over thy head, and ready to fall upon thee; wert thou but once ſe<g ref="char:EOLhyphen"/>riouſly ſenſible of that danger which every day thou art in. I am confident thou couldſt no more reſt in thy ſins out of Chriſt, then thou couldſt go to bed when thy houſe is on fire about thy ears.</p>
+            <p>Secondly, thou art, if out of Chriſt, in the power of every Devil and every luſt; thou art the devils for egreſs and regreſs, when he pleaſes thou art taken captive by him at his will, as the apoſtle expreſſes it, <hi>2 Tim. 2.26.</hi> Thou art like a Common without a hedge, a prey to every beaſt of prey; thou wilt not take Chriſt as a garment
+<pb facs="tcp:32543:18"/>thou wilt not let God be a hedge to keep thee from ſtraying into ſin, and God will not be an hedge to preſerve thee from being deſtroyed in and for thy ſin.</p>
+            <p>O ſinner, thy condition is very ſad and very dreadful, thou lieſt at the mercy of the devil every moment, at the cruel courteſic of every temptati<g ref="char:EOLhyphen"/>on; thou haſt a hole it may be to keep thy Swine in, but if thou haſt not a Chriſt to lodge thy ſoul in, thou art liable to all the curſes in the book of God; how dreadful is it to want the benefit of every ſtreet promiſe in the word of God, to want a Ieſus to de<g ref="char:EOLhyphen"/>liver us from the wrath to come. Doeſt thou think thou canſt the able to endure the wrath of God to all eter<g ref="char:EOLhyphen"/>nity; if thy foundation be not laid up<g ref="char:EOLhyphen"/>on the rock of Chriſt, thy whole buil<g ref="char:EOLhyphen"/>ding will ſoon be deſtroyed, and thou wilt be found to be the verieſt fool in the world; it thou art out of Chriſt thou canſt never be ſafe, thou art a mad man, and thou delighteſt in thy own deſtruction.</p>
+            <p>Secondly, by way of motive, con<g ref="char:EOLhyphen"/>ſider
+<pb facs="tcp:32543:18"/>I beſecch you, Chriſt will not onely cover thy nakedneſs, and ſhelter thee from the wrath of God, but will be an ornament of grace and glory to thee for ever.</p>
+            <p>But how ſhall we get this garment of Chriſt, may ſome ſay? I ſee my own nakedneſs, but how ſhall I do to get this garment? I anſwer, in the firſt place, thou muſt beg it of God, thou mayeſt have it for asking for; ask and thou ſhalt have, it is freely offered unto thee.</p>
+            <p>Secondly throw away all thy own rotten rags of ſin, thou muſt ſtrip thy ſelf even naked of all ſelfe-righteouſ<g ref="char:EOLhyphen"/>neſs; Chriſt will not be a garment to any but to ſuch as ſhall firſt put off their own rags, throw away then all thy old rotten rags, and <hi>put on the Lord Jeſus Chriſt;</hi> put him on, he is freely offered to thee, do not deſpiſe thy own mercy; get Chriſt for thy garment here, if ever thou expecteſt to have Chriſt for thy comfort here<g ref="char:EOLhyphen"/>after. Remember without Chriſt there is no happineſ to be had here<g ref="char:EOLhyphen"/>after, thou art miſerable here, and
+<pb facs="tcp:32543:19"/>thou ſhalt be miſerable to all eternity hereafter. <hi>O conſider this, all ye that forget God, left he tear you in pieces, and there be none to deliver you, Pſalm 50.22.</hi>
+            </p>
+            <p>In the next place, is it ſo, is Chriſt a garment, then here is matter of great joy and comfort to thoſe that are Chriſts: O happy Chriſtian, God hath made a bleſſed exchange with thee, he hath taken away from thee thy own rotten filthy ſtinking rags, and he hath in the room thereof put thee on his own moſt glorious white Robes! O happy ſoul! O bleſſed exchange.</p>
+            <p>But before I proceed any further, I ſhall a little endeavour to give you ſome few, but brief directions for your better inſtruction and edifi<g ref="char:EOLhyphen"/>cation.</p>
+            <p>And firſt of all, haſt thou put on the Lord Ieſus Chriſt as a garment, O then for the Lords ſake do not put him off again, keep him on while thou haſt him on; children you know when they have gotten a new garment they do not love to put if off again,
+<pb facs="tcp:32543:19"/>they would wear it alwayes if they might.</p>
+            <p>Secondly, haſt thou put on the Lord Ieſus Chriſt as a garment, then wear him cleanlily, have a care that thou doeſt not ſoil this precious gar<g ref="char:EOLhyphen"/>ment; O do not dirty it, nor ſully it. Men when they have gotten on their beſt garments, or any thing that's rare and choice, how curious, how careful, how circumſpect are they, they will have a care where they go, and what they do ſo long as they have thoſe garments on. Men will not go about to rake dunghills in ſilken gar<g ref="char:EOLhyphen"/>ments, a little ſpot of ouſt is ſoon ſeen in a clean garment; do not do the Devil drudgery with the gar<g ref="char:EOLhyphen"/>ment of Chriſt: O do not rake in the filthy ſtinking dunghills of ſin, with the ſilken cloaths of Chriſtianity up<g ref="char:EOLhyphen"/>on thy back; remember ſuch baſe things are too low, for ſuch noble ſouls as Chriſtians are; to be imploy<g ref="char:EOLhyphen"/>ed in.</p>
+            <p>Thirdly, is Chriſt a garment, then wear him as a garment, put him not on as a cloak, but put him on as a
+<pb facs="tcp:32543:20"/>garment; remember, as one ſaith ſweetly, as Chriſt is the beſt gar<g ref="char:EOLhyphen"/>ment, ſo is he the worſt cloak: for to make Chriſt and Chriſtianity a cloak for thy ſin, is the horre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt thing in all the world. Thoſe woldes who are in ſheeps cloathing are the moſt dangerous woldes of all; to be Saints in appearance outwardly, and Devils in ſubſtance inwardly, O horrid impiety! Will you ſwear and lye, couzen and cheat, and do all manner of evil, and yet profeſs Chri<g ref="char:EOLhyphen"/>ſtianity; O take heed of this, they that make Chriſt a Cloak for their ſin, do manifeſtly ſhew that they never yet taſted of the love of God in Chriſt, in the pardoning of their ſins; Chriſt is not a cloak to hide ſin, but Chriſt is a garment to preſerve us from ſin; they that put on Chriſt as a cloak, never yet put on Chriſt as a gar<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Fourthly, is Chriſt a garment, and haſt thou put him on, then wear him conſtantly, never put him off, he will laſt thee as long as thou liveſt, I and longer too; thou canſt not carry
+<pb facs="tcp:32543:20"/>a rag of thine own clothes with thee out of this world? I but thou mayeſt carry this garment with thee into the next world; thou mayeſt go to heaven with this garment upon thee, nay, thou ſhalt never get to heaven with<g ref="char:EOLhyphen"/>out it; put him on then, and never put him off, wear him every day, day by <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, even to thy dying day, he will laſt thee as long as thou liveſt, and will be a comfort, yea, an exceeding great comfort to thee when thou dyeſt, and will be a glory, an everlaſting glory to thee for ever in the world to come.</p>
+            <p>Fifthly, is it ſo, is Chriſt a gar<g ref="char:EOLhyphen"/>ment? then here is matter of com<g ref="char:EOLhyphen"/>fort to all that are Chriſts in times of danger and trouble; let we tell thee Chriſtian, thou that haſt put on the Lord Ieſus Chriſt as a garment, thou art armed as well as cloathed, thou haſt armour of proof upon thy back, ſuch armour as never yet could be pierced, ſuch armour as will keep off all the gun-hots of the Devil, and the world, be they never ſo great, be they never ſo furious, be they never
+<pb facs="tcp:32543:21"/>ſo many: thy garment Chriſtian will keep out a ſhowre, I, and a ſtorm too, nothing can pierce it, nothing ſhall be able to hurt thee if thou haſt put on Chriſt, neither ſin nor Satan: <hi>If God be for us, who can be againſt us, Rom. 8.33. Who ſhall lay any thing to the charge of Gods elect? it is Chriſt that hath dyed.</hi>
+            </p>
+            <p>Firſt, thou haſt put on Chriſt as a garment, he will defend thee Ile warrant thee, let come what will come: ſee what the Lord ſaith to ſuch as are clothed with his Son, in <hi>Iſa. 47.1, 2. Fear not, for I have redeeem<g ref="char:EOLhyphen"/>ed thee, I have called thee by thy name, thou art mine. When thou paſſeſt through the waters, I will be with thee, and through the rivers, they ſhall not overflow thee: when thou walkeſt through the fire, thou ſhalt not be burnt; neither ſhall the flame kindle up<g ref="char:EOLhyphen"/>on thee.</hi>
+            </p>
+            <p>And this was it which ſo raviſhed the hearts of the bleſſed Martyrs, and carried them through all their tor<g ref="char:EOLhyphen"/>ments with ſo much joy and comfort; and ſo likewiſe the three Children in
+<pb facs="tcp:32543:21"/>the fiery furnace, all the violent and ſcorching heats of thoſe burning fiery furnaces, could not, nay did not hurt ſo much as the leaſt hair of their heads; and the reaſon was, becauſe they were the Children of the moſt high God, and were cloathed with the Lord Ieſus Chriſt, as with a garment. So likewiſe <hi>Daniel</hi> in the Lions Den, he was defended from the fury of thoſe raging beaſts, by his be<g ref="char:EOLhyphen"/>ing clothed with this garment of Chriſt.</p>
+            <p>In a word, let come what will come, let the Devil and all his inſtru<g ref="char:EOLhyphen"/>ments rage never ſo much, let the ſtorms of perſecution be never ſo hot, let the waves beat never ſo fiercely, thy houſe ſhall ſtand, and thou ſhalt be carried through all, becauſe thy houſe, thy faith is built upon a Rock, even upon the reck of Ages, the Lord Ieſus Chriſt. Men out of Chriſt are naked, they have nothing at all to de<g ref="char:EOLhyphen"/>fend them, all thoſe rich and coſtly garments of the gallants of the world, be they never ſo rich and gaudy, are not half ſo coſtly as this garment is;
+<pb facs="tcp:32543:22"/>for believe it Chriſtian, it coſt Chriſts precious Life and Blood to purchaſe it for thee.</p>
+            <p>Sixthly, is Chriſt a garment, then let us not be proud of our own garments: alas, what are they, no<g ref="char:EOLhyphen"/>thing but rags in compariſon of this garment of Chriſt, bodies of ſin; ſin was the firſt founder and inventer of theme if <hi>Adam</hi> had not ſinned, he had never ſtood in nerd of a garment. A thief (ſaith on very ſwertly) may as well be proud of his halter, as a man or woman may be proud of their gar<g ref="char:EOLhyphen"/>ments; and ſet me tell thee, thou that art proud, thou art proud of that which is anothers, it is none of thy own, thou haſt nothing of thy own to be proud with: what thou haſt is but lent thee, and thou knoweſt not how ſoon the owner may take them away, and leave thee as naked as he found thee: and then if thou art found out of Chriſt thou art undone for ever I Woe, woe be unto thee, and that for evermore.</p>
+            <p>Seventhly, is Chriſt a garment, then I note from hence, that abun<g ref="char:EOLhyphen"/>dance
+<pb facs="tcp:32543:22"/>of outward enjoyments do no<g ref="char:EOLhyphen"/>thing at all adorn a man, its onely the garment of Chriſt that will make a Chriſtian lovely; earthly things they do not adorn us in the ſight of God; it matters not whether we be rich or poor, naked or cloathed, in rags or in robes: I, but it matters whether thou beeſt: in Chriſt or no; God will look upon thee onely as thou art cloathed with his Son: if thou art not found in Chriſt, cloathed upon with the glorious white robes of his righteouſneſs, at the laſt day God will never own thee for his child, he will then ſay unto thee, <hi>Depart from me, I know you not.</hi>
+            </p>
+            <p>Eightly, I note from hence, that they that live in ſin are none of Chriſts, they are not cloathed upon with this garment; <hi>Let every one</hi> (ſaith the Apoſtle) <hi>that nameth the name of Chriſt, depart from iniquity. Put on the Lord Jeſus Chriſt,</hi> ſaith the Lert) <hi>and make no proviſion for the fleſh.</hi> Chriſtianity and ſin are no kin one to another, ſin is a work of the night; and if ever thou wouldſt put
+<pb facs="tcp:32543:23"/>on the Lord Ieſus Chriſt, thou muſt caſt off and forſake all thy ſins; but if thou wilt needs keep thy ſorry rags of ſin ſtill upon thy back, let me tell thee, Chriſt will never be a Saviour unto thee, thou ſhalt have nothing to defend thee in the evil day of the Lords wrath.</p>
+            <p>In the laſt place, by way of mo<g ref="char:EOLhyphen"/>tive, O that I could perſivade you this day to embrace Ieſus Chriſt, as he is tendered and offered unto you in the Goſpel; wouldſt thou put on the Lord Ieſus Chriſt as a garment? then in the words of the Apoſtle, I beſeech you, <hi>Caſt off the works of darkneſs, and put on the armour of light: Walk honeſtly, as in the day, not in rioting and drunkenneſs,</hi> and do not commit works of darkneſs at noon-day; even the light of nature ſhould make men bluſh to commit ſin in the very face of the Sun it ſelf.</p>
+            <p>Remember, I beſeech you, how unſuitable and unſeaſonable rioting and drunkenneſs is to the profeſſion of the Goſpel of Chriſt: <hi>Let every one</hi> (ſaith the Apoſtle) <hi>that nameth
+<pb facs="tcp:32543:23"/>the name of Chriſt depart from iniqui<g ref="char:EOLhyphen"/>ty:</hi> Chriſt will never be a garment to thee if thou delighteſt in ſin, its impoſſible to ſerve God and Mam<g ref="char:EOLhyphen"/>mon, thou canſt never wear the li<g ref="char:EOLhyphen"/>very of Chriſt, add the livery of Sa<g ref="char:EOLhyphen"/>tan together: as holineſs is the badge and livery of Chriſt, ſo ſin and wick<g ref="char:EOLhyphen"/>edneſs is the badge and Livery of the Devil: in this the Children of God are manifeſt, ſaith the Apoſtle, and the children of the Devil: <hi>Whoſoever doth not righteouſneſs is not of God, John 1.3, 10.</hi> and in the <hi>6, 7, 8.</hi> verſes of the ſame Chapter, <hi>Whoſoever abi<g ref="char:EOLhyphen"/>deth in him ſinneth not, and whoſoever ſinneth hath not ſeen him, nor known him: He that committeth ſin, is of the Devil: Ye are of your Father the De<g ref="char:EOLhyphen"/>vil,</hi> ſaith our Saviour to the unbelie<g ref="char:EOLhyphen"/>ving Jews, <hi>John 8.44. and the works of your father ye will do:</hi> wicked men will do the Devils work, although they are ſure to dye for it; <hi>The work of your father ye will do.</hi>
+            </p>
+            <p>And let me tell you, beloved, they that will do the Devils work, muſt look for nothing but the Devils pay,
+<pb facs="tcp:32543:24"/>and the Devill will be ſure to give them their due at the laſt: And I be<g ref="char:EOLhyphen"/>ſéech you remember what the wages of ſin is; in <hi>Romans. 6.23. The wages of ſin is death, death eternal;</hi> the wick<g ref="char:EOLhyphen"/>ed in hell they are alwayes dying, and yet never dead; the torments of the damned in hell, as they are eaſe<g ref="char:EOLhyphen"/>leſs, ſo they are endleſs. <hi>O conſider this you that forget God, leſt he tear you in pieces, and there be none to deliver you.</hi>
+            </p>
+            <p>Wouldſt thou put on the Lord Ieſus Chriſt as a garment? then in the laſt place, and ſo I have done, <hi>Do not make proviſion for the fleſh, to fulfill the luſts thereof; ſpend not thy time in rioting and drunkenneſs, not in cham<g ref="char:EOLhyphen"/>bering and wantonneſs, but caſting off and abhorting all theſe unfruitful works of darkneſs:</hi> Labour to live up to that God who has ſo dearly loved us, and bought us with his own moſt precious blood; that ſo living here to all the intents and purpoſes of his Grace, and walking daily before the Lord in all manner of holineſs and righteouſ<g ref="char:EOLhyphen"/>neſs all thy dayes, thou mayeſt in the
+<pb facs="tcp:32543:24"/>end of thy dayes here live and reign for ever with Chriſt in glory here<g ref="char:EOLhyphen"/>after.</p>
+            <p>Now bleſſed are all thoſe, and for ever bleſſed ſhall they be, who ſo live, and ſo walk, as that they may be tru<g ref="char:EOLhyphen"/>ly ſaid to have put on the Lord Ieſus Chriſt, and do ſo give up themſelves to be ruled and guided by him in Grace here, that ſo when they come to dye, they ſhall be found in Chriſt, cloathed upon with the glorious white Robes of Chriſt his righteouſneſs, and ſhall for ever live and reign with Chriſt in Glory hereafter; to whom be Glory and Honour, for ever and ever. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:32543:25"/>
+            <head>Courteous Reader.</head>
+            <p>Theſe godly Books are printed for <hi>Eliz. Andrews,</hi> at the white Lion near Pye Corner: and are but three pence apiece.</p>
+            <list>
+               <item>1. The Chriſtians Bleſſed Choice.</item>
+               <item>2. Chriſts firſt Sermon.</item>
+               <item>3. Chriſts laſt Sermon.</item>
+               <item>4. Heavens Glory and Hells Horror.</item>
+               <item>5. The School of Grace.</item>
+               <item>6. A warning piece to the Sloathful, Idle, Careleſs, Drunken, and Secure Ones of theſe laſt and worſt of times.</item>
+            </list>
+            <p>Likewiſe,
+<list>
+                  <item>1. Englands Faithful Phyſician.</item>
+                  <item>2. The dreadful character of a drun<g ref="char:EOLhyphen"/>kard.</item>
+                  <item>3. Dooms-day at hand.</item>
+                  <item>4. The Fathers laſt Bleſſing to his children.</item>
+                  <item>5. The ſin of Pride arraigned and condemned.</item>
+                  <item>6. The Black Book of Conſcience.</item>
+                  <item>7. Peters Sermon of Repentance.</item>
+                  <item>8. The Charitable Chriſtian.</item>
+                  <item>9. The Plain Mans Plain Path-way to Heaven.</item>
+                  <item>10. Death Triumphant.</item>
+               </list>
+            </p>
+            <p>Theſe ten laſt are two pence apiece.</p>
+            <pb facs="tcp:32543:25"/>
+         </div>
+      </back>
+   </text>
+</TEI>
